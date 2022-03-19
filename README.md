@@ -6,7 +6,7 @@ This is a command line utility that allows you to quickly create and restore bac
 * Windows 10 (7 is untested)
 
 ## Installation
-First, create a manual backup of your ER0000.sl2 file and store it outside of the scope of this program (just in case).
+First, create a manual backup of your ER0000.sl2 file (located at %appdata%/../Roaming/EldenRing/<folder with numbers>) and store it outside of the scope of this program (just in case).
 
 Clone the repo (or [download the zip](https://github.com/DeaftJoe/EldenRingCLIBackups/archive/refs/heads/main.zip)) to any folder and run **setup.bat**.
 Read the descriptions in **config.json** and adjust the variables accordingly (notably *steam_uuid*).
