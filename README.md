@@ -2,13 +2,13 @@
 This is a command line utility that allows you to quickly create and restore backups of your Elden Ring save file. Backups are stored in zip files to cut down on file size.
 
 ## Requirements
-* Python 3.8
-* Windows 10 (7 is untested).
+* [Python 3.8+](https://www.python.org/downloads/)
+* Windows 10 (7 is untested)
 
 ## Installation
 First, create a manual backup of your ER0000.sl2 file and store it outside of the scope of this program (just in case).
 
-Clone the repo to any folder and run **setup.bat**.
+Clone the repo (or [download the zip](https://github.com/DeaftJoe/EldenRingCLIBackups/archive/refs/heads/main.zip)) to any folder and run **setup.bat**.
 Read the descriptions in **config.json** and adjust the variables accordingly (notably *steam_uuid*).
 
 ## Usage
