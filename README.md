@@ -4,9 +4,9 @@ This is a command line utility that allows you to quickly create and restore bac
 ## Requirements
 Python 3.8, Windows 10 (7 is untested).
 
-Also, create a manual backup of your ER0000.sl2 file and store it outside of the scope of this program (just in case).
-
 ## Installation
+First, create a manual backup of your ER0000.sl2 file and store it outside of the scope of this program (just in case).
+
 Clone the repo to any folder and run **setup.bat**.
 Read the descriptions in **config.json** and adjust the variables accordingly (notably *steam_uuid*).
 
