@@ -1,0 +1,14 @@
+{
+  "__comments": {
+    "__comment_steam_uuid": "Go to your game install directory and the random numeric folder is your Steam UUID: e.g. 1234569978900",
+    "__comment_game_directory": "Game install folder",
+    "__comment_utility_name": "Name of the python app",
+    "__comment_compression_method": "Type of compression used",
+    "__comment_save_file_name": "Elden Ring: ER0000.sl2, Dark Souls 3: DS30000.sl2"
+  },
+  "steam_uuid": "00000000000000000",
+  "game_directory": "%appdata%\\EldenRing",
+  "utility_name": "erbackup",
+  "compression_method": ".zip",
+  "save_file_name": "ER0000.sl2"
+}
